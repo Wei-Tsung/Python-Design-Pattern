@@ -11,3 +11,6 @@ Design Pattern -- Implementation Using Python
 - It also gives implementation hints and examples. The solution is a general arrangement of objects and classes that solve the problem. The solution is customized and implemented to solve the problem in a particular context.
 
 ---
+
+
+
